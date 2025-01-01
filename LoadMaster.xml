@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+	<fonts names="Agency,AgencyBold,OpenSansRegular,OpenSansBold">
+		<file>swf/Fonts.swf</file>
+	</fonts>
+	<ui>
+		<file>swf/UIElements.swf</file>
+	</ui>
+	<asset_data>
+		<file>data/DefaultConnection.txt</file>
+		<file>data/StoragePrototypes.dat</file>
+	</asset_data>
+</files>
+

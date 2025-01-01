@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:5e561ce4838d78ee4769898ddfeb8310$ -->
+<TextureAtlas imagePath="Planet4.png">
+    <SubTexture name="Moon1" x="1017" y="256" width="256" height="256"/>
+    <SubTexture name="Moon2" x="1017" y="0" width="256" height="256"/>
+    <SubTexture name="Planet4" x="0" y="0" width="1017" height="1024"/>
+</TextureAtlas>

@@ -1,0 +1,733 @@
+body {
+	margin:0px;
+	height:100%;
+	background:none transparent;
+	overflow:hidden;
+}
+
+input[type="text"] {
+	background: #07090b;
+	color: #f0f0f0;
+	padding: 1px 3px;
+}
+
+.paymentsDialog {
+	background: url("../assets/Paywall/MainWindow.png") no-repeat center center;
+	margin:0px;
+	padding:0px;
+	width:740px;
+	height:660px;
+}
+
+#payments {
+	overflow:visible;
+}
+
+#tooltip {
+	background-color: #25211f;
+	padding: 10px 16px;
+	width: 250px;
+	border: 2px solid #524943;
+	color: #ccc;
+	font-family: serif;
+	font-size: 14px;
+	display: none;
+}
+
+.titleBar {
+	position: relative;
+	padding: 10px 12px 10px 22px;
+	height: 28px;
+}
+
+.titleBar  .header {
+	position: relative;
+	top: 1px;
+	right: 285px;
+	text-align: center;
+	color: #f0f0f0;
+	font-size: 22px;
+	font-family: Agency FB, Steelfish Rg, sans-serif;
+	padding: 0px;
+}
+
+.titleBar .closeButton {
+	float: right;
+	width: 16px;
+	height: 16px;
+	background: url(../assets/Paywall/ico_close.png) center 0px no-repeat;
+}
+.radioPaymentWall {
+	position: relative;
+	margin: auto;
+	font-family: Tahoma, Lucida, sans-serif;
+	padding: 0px 12px 0px 22px;
+}
+
+.radioPaymentWall .packageContainer {
+	margin: auto;
+}
+
+.radioPaymentWall #packageContainer ::-webkit-scrollbar {
+	width: 6px;
+}
+
+.radioPaymentWall #packageContainer ::-webkit-scrollbar-track {
+	border-radius: 5px;
+	box-shadow: 0px 0px 2px 1px rgba(142,197,254,0.8) inset;
+}
+
+.radioPaymentWall #packageContainer ::-webkit-scrollbar-thumb {
+	background: rgba(142,197,254,1);
+	border-radius: 5px;
+	box-shadow: 0px 0px 2px 1px rgba(0,0,0,1) inset;
+}
+
+.radioPaymentWall ul {
+	padding: 0px;
+	margin:auto;
+}
+
+.radioPaymentWall .packageContainer ul li {
+	display: block;
+	clear: left;
+	line-height: 43px;
+	font-size: 12px;
+	background: url("../assets/Paywall/Package_Box.png") no-repeat center center;
+	width: 691px;
+	height: 46px;
+	margin-bottom: 2px;
+	margin-left: 7px;
+}
+
+.radioPaymentWall .packageContainer ul.InComm li {
+	/*background: url("../assets/Paywall/box__card_bg.png") no-repeat center center;*/
+	width:725px;
+	height:105px;
+	margin-bottom:2px;
+	margin-left:7px;
+	line-height: 105px;
+}
+
+.radioPaymentWall .packageContainer ul.InComm li .igc,
+.radioPaymentWall .packageContainer ul.InComm li .priceContainer {
+	line-height:105px;
+}
+
+.radioPaymentWall .packageContainer ul.InComm li.gc25 .priceTag {
+	/*background: url("../assets/Paywall/gc25.jpg") center center no-repeat;*/
+}
+
+.radioPaymentWall .packageContainer ul.InComm li.gc50 .priceTag {
+	/*background: url("../assets/Paywall/gc50.jpg") center center no-repeat;*/
+}
+
+.radioPaymentWall .packageContainer ul.InComm li.gc25 .priceTag .priceContainer,
+.radioPaymentWall .packageContainer ul.InComm li.gc50 .priceTag .priceContainer {
+	text-align:center;
+	color: #f9a32c;
+	margin-top:37px;
+}
+
+.radioPaymentWall ul li.tagged {
+	/*background: url("../assets/Paywall/bg-bar-popular.png") no-repeat;*/
+}
+
+.radioPaymentWall .packageContainer ul li .radioButton {
+	width:21px;
+	height:100%;
+	background: url("../assets/Paywall/radioButtonNormal.png") no-repeat center center;
+	float:left;
+	margin-left:15px;
+	cursor: pointer;
+}
+
+.radioPaymentWall ul li.selected .radioButton {
+	background: url("../assets/Paywall/radioButtonSelected.png") no-repeat center center;
+}
+
+.radioPaymentWall ul.InComm li .radioButton {
+	visibility:hidden;
+}
+
+.radioPaymentWall ul li .igcIcon {
+	width:32px;
+	height:100%;
+	background: url("../assets/Paywall/Palladium_32.png") no-repeat center center;
+	float:left;
+	margin-left:8px;
+}
+
+.radioPaymentWall ul li .igc {
+	width: 150px;
+	height: 100%;
+	float: left;
+	margin-left: 8px;
+	font-size: 16px;
+	font-family: Tahoma, Lucida, sans-serif;
+	font-weight: bold;
+	color: #e4b170;
+	white-space: nowrap;
+}
+
+.radioPaymentWall ul li .bonusIGC {
+	width: 185px;
+	height: 100%;
+	float: left;
+	margin-left: 8px;
+	text-transform: capitalize;
+	color: #ffdc4e;
+	font-size: 15px;
+	font-weight: bold;
+	white-space: nowrap;
+}
+
+.radioPaymentWall ul li .bonusItems {
+	width: 185px;
+	height: 100%;
+	float: left;
+	margin-left: 3px;
+	color: #0066ff;
+	text-decoration: underline;
+	text-transform: capitalize;
+	font-size: 14px;
+	white-space: nowrap;
+}
+
+.radioPaymentWall ul li .plus {
+	font-family: Tahoma, Lucida, sans-serif;
+}
+
+.radioPaymentWall ul li .bonusItems.noBonus,
+.radioPaymentWall ul li .bonusIGC.noBonus {
+	color: #938061;
+	text-decoration:none;
+	display:none;
+}
+
+.radioPaymentWall ul li .priceTag {
+	width:130px;
+	height:100%;
+	float:left;
+	margin-left:36px;
+}
+
+.radioPaymentWall ul li .priceTag .priceContainer {
+	font-size: 16px;
+	font-family: Tahoma, Lucida, sans-serif;
+	color: #f0f0f0;
+	white-space: nowrap;
+}
+
+.radioPaymentWall ul li .priceTag.tagged .priceContainer {
+	margin-top: 5px;
+	line-height: 20px;
+}
+
+.radioPaymentWall ul li .tagtext {
+	float: left;
+	line-height: 14px;
+	font-size: 12px;
+	font-weight: bold;
+	font-family: Tahoma, Lucida, sans-serif;
+	color : #d3000d;
+	white-space: nowrap;
+}
+
+.radioPaymentWall ul li .priceContainer.salePrice .price,
+.radioPaymentWall ul li .priceContainer.salePrice .originalPrice {
+	line-height:normal;
+}
+
+.radioPaymentWall ul li .priceContainer .originalPrice {
+	text-decoration:line-through;
+	color: #d3000d;
+}
+
+.radioPaymentWall ul li .priceContainer .originalPrice span {
+	color: #37301e;
+}
+
+.radioPaymentWall ul li .endColumn {
+	width:1px;
+	height:100%;
+	margin-left:739px;
+}
+
+.radioPaymentWall .buttonContainer {
+
+}
+
+.radioPaymentWall .notice {
+	color: #ffffff;
+	margin:10px;
+}
+
+.radioPaymentWall .notice {
+	color: #bcc0c0;
+}
+
+.radioPaymentWall .notice .itemRewardInfo {
+	margin-left: 245px;
+	text-align: left;
+}
+
+.radioPaymentWall .notice .itemRewardInfo {
+	margin:0px;
+	font-size: 11px;
+	font-weight: normal;
+	font-family: Tahoma, Lucida, sans-serif;
+}
+
+.radioPaymentWall .notice .itemRewardInfo .playername,
+.radioPaymentWall .notice .itemRewardInfo .sectorname {
+	font-weight: bold;
+	color: #ffffff;
+}
+
+.radioPaymentWall .step {
+	color: #f0f0f0;
+	font-size: 22px;
+	font-family: Agency FB, Steelfish Rg, sans-serif;
+	padding: 5px 0px 2px 0px;
+	margin-left: 15px;
+	text-transform: uppercase;
+}
+
+.radioPaymentWall .providerContainer {
+	padding:0px 15px;
+}
+
+.radioPaymentWall .providers .providerHeader {
+	margin:0px auto;
+}
+
+
+.radioPaymentWall .providers #providerContainer {
+	height:55px;
+	padding:0px 7px;
+	background: url("../assets/Paywall/PaymentMethod_Box.png") no-repeat center center;
+}
+
+.radioPaymentWall .providerContainer .providerRow {
+	height: 35px;
+	line-height: 35px;
+	color: #ffffff;
+	font-size: 14px;
+	font-family: Tahoma, Lucida, sans-serif;
+	font-weight: bold;
+}
+
+.radioPaymentWall .providerContainer .providerRow .endColumn {
+	width: 1px;
+	height:100%;
+	margin-left: 689px;
+}
+.radioPaymentWall .providerContainer .radio_selector {
+	height: 100%;
+	padding-left: 20px;
+	background: url("../assets/Paywall/radioButtonNormal.png") left center no-repeat;
+	float: left;
+	cursor:pointer;
+}
+
+.radioPaymentWall .providerContainer .picContainer {
+	height:100%;
+}
+
+
+.radioPaymentWall .providerContainer .radio_selector.selected {
+	background: url("../assets/Paywall/radioButtonSelected.png") left center no-repeat;
+}
+
+.radioPaymentWall .providerList {
+	height: auto;
+	line-height: 35px;
+	overflow: hidden;
+	margin: 0px 15px;
+}
+
+.radioPaymentWall .providerList li {
+	height: 38px;
+	display: block;
+	cursor: pointer;
+	white-space: nowrap;
+	float: left;
+	margin-top: 10px;
+	margin-right: 15px;
+}
+
+.radioPaymentWall .providerList li .radioButton {
+	width: 21px;
+	height:100%;
+	float:left;
+	padding-top:0px;
+	padding-left: 0px;
+	background: url("../assets/Paywall/radioButtonNormal.png") left center no-repeat;
+}
+
+.radioPaymentWall .providerList li .picContainer {
+	margin-left: 30px;
+	font-family: Agency FB, Steelfish Rg, sans-serif;
+	font-size: 22px;
+	font-weight: normal;
+	color: #ffffff;
+	text-transform: uppercase;
+}
+
+.radioPaymentWall .providerList li.Facebook .picContainer {
+	background: url("../assets/Paywall/icon_fbCredit_doa.png") no-repeat left center;
+	padding-left: 31px;
+}
+
+.radioPaymentWall .providerList li.TrialPay .picContainer {
+	background: url(../assets/Paywall/TrialPay.png) left center no-repeat;
+	width: 147px;
+}
+
+.radioPaymentWall .providerList li.PlaySpan .picContainer {
+	background: url(../assets/Paywall/playspan.png) left center no-repeat;
+	width: 147px;
+}
+
+.radioPaymentWall .providerList li.Vindicia .picContainer {
+	background: url(../assets/Paywall/vindicia.png) left center no-repeat;
+	width: 98px;	
+}
+
+.radioPaymentWall .providerList li.PayPal .picContainer {
+	background: url(../assets/Paywall/icon_paypal_doa.png) left center no-repeat;
+	width: 71px;
+}
+
+.radioPaymentWall .providerList li.PaySafeCard .picContainer {
+	background: url(../assets/Paywall/PaySafeCard.gif) left center no-repeat;
+	width: 133px;
+}
+
+.radioPaymentWall .providerList li.Boku .picContainer {
+	background: url(../assets/Paywall/icon_mobile.png) left center no-repeat;
+	padding-left: 20px;
+}
+
+.radioPaymentWall .providerList li.Skrill .picContainer {
+	background: url(../assets/Paywall/moneybookers.jpg) left center no-repeat;
+	width: 159px;
+}
+
+.radioPaymentWall .providerList li.Sofort .picContainer {
+	background: url(../assets/Paywall/sofort.png) left center no-repeat;
+	width: 82px;
+}
+
+.radioPaymentWall .providerList li.Mazooma .picContainer {
+	background: url(../assets/Paywall/mazooma.png) left center no-repeat;
+	width: 48px;
+}
+
+.radioPaymentWall .providerList li.Google .picContainer {
+	background: url(../assets/Paywall/googleWallet.png) left center no-repeat;
+	width: 147px;
+	
+}
+
+.radioPaymentWall .providerList li.TrialPay .picContainer span,
+.radioPaymentWall .providerList li.PlaySpan .picContainer span,
+.radioPaymentWall .providerList li.Vindicia .picContainer span,
+.radioPaymentWall .providerList li.PayPal .picContainer span,
+.radioPaymentWall .providerList li.PaySafeCard .picContainer span,
+.radioPaymentWall .providerList li.Skrill .picContainer span,
+.radioPaymentWall .providerList li.Sofort .picContainer span,
+.radioPaymentWall .providerList li.Mazooma .picContainer span,
+.radioPaymentWall .providerList li.Google .picContainer span {
+	visibility: hidden;
+}
+
+.radioPaymentWall .providerList li.Boku .picContainer span,
+.radioPaymentWall .providerList li.Offer .picContainer span,
+.radioPaymentWall .providerList li.Facebook .picContainer span,
+.radioPaymentWall .providerList li.InComm .picContainer span {
+	white-space: nowrap;
+}
+
+
+.radioPaymentWall .providerList li.selected .radioButton {
+	height:100%;
+	float:left;
+	background: url("../assets/Paywall/radioButtonSelected.png") left center no-repeat;
+}
+
+.radioPaymentWall ul.packages {
+	display:none;
+	padding:0px;
+	max-height: 288px;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+.radioPaymentWall ul.packages.selected {
+	display:block;
+}
+
+
+.radioPaymentWall .footerContainer {
+	height: 97px;
+	padding: 10px;
+	margin: auto;
+}
+
+.radioPaymentWall .secureLogo {
+	margin-top: 15px;
+	text-align: center;
+	font-size: 11px;
+	color: #ffffff;
+}
+
+.radioPaymentWall .secureLogo span {
+	display: inline-block;
+	text-align: left;
+	vertical-align: middle;
+	margin: 0px 10px;
+	min-height: 26px;
+}
+
+.radioPaymentWall .secureLogo .securePayment {
+	padding: 10px 0px 0px 28px;
+	background: url("../assets/Paywall/icon_secure_doa.png") no-repeat left center;
+	color: #ffffff;
+}
+
+.radioPaymentWall .secureLogo .kabamLogo {
+	width: 62px;
+	height: 37px;
+	background: url("../assets/Paywall/icon_kabam_doa.png") no-repeat;
+}
+
+.radioPaymentWall .secureLogo .facebookCredit {
+	background: url("../assets/Paywall/icon_fbCredit_doa.png") no-repeat left center;
+	padding-left: 34px;
+}
+
+.radioPaymentWall .learnMore {
+	color: #e4b170;
+}
+
+.radioPaymentWall .redeemCardBox {
+	background: url("../assets/Paywall/Redeem_Frame.png") no-repeat;
+	height: 105px;
+	float: left;
+	padding: 3px 8px;
+}
+
+.radioPaymentWall .redeemCard {
+	width:100%;
+	margin:0px;
+	padding-left:3px;
+	background:none;
+	border:none;
+}
+
+.radioPaymentWall .redeemCard .redeemForm input {
+	width: 190px;
+	height: 23px;
+	border: 1px solid #67a6e7;
+	float: left;
+	font-family: Lucida Console, monospace;
+}
+
+.radioPaymentWall .redeemCard .redeemDesc {
+	margin: 0px;
+	font-size: 20px;
+	font-family: Agency FB, Steelfish Rg, sans-serif;
+	color: #f0f0f0;
+}
+
+.radioPaymentWall .redeemCard div {
+	display:block;
+}
+
+.radioPaymentWall .redeemForm .redeemLabel {
+	float:none;
+}
+
+.radioPaymentWall .redeemForm {
+	float:none;
+}
+
+.radioPaymentWall .redeemCard .redeemLabel {
+	font-size: 14px;
+	font-family: Tahoma, Lucida, sans-serif;
+	color: #f0f0f0;
+	letter-spacing:1px;
+}
+
+.radioPaymentWall .redeemCard .redeemLabel #redeemToolTip,
+.radioPaymentWall .redeemCardBox a.tos {
+	font-size: 14px;
+	font-family: Tahoma, Lucida, sans-serif;
+	color: #8ec5fe;
+	letter-spacing:1px;
+}
+
+.radioPaymentWall .redeemCardBox a.tos:hover {
+	text-decoration: underline;
+	color: #b0d2f5;
+}
+
+.radioPaymentWall .redeemCard .redeemForm .redeemButton {
+	background: url("../assets/Paywall/Blue_Btn.png") no-repeat 0px 0px;
+	width: 125px;
+	height: 29px;
+	margin: 5px 0px 0px 200px;
+	padding: 2px 0;
+	text-align: center;
+	line-height: 25px;
+	font-size: 20px;
+	font-family: Agency FB, Steelfish Rg, sans-serif;
+	color: #a0cfff;
+	display: block;
+	cursor: pointer;
+	text-transform: uppercase;
+}
+
+.radioPaymentWall .redeemCard .redeemForm .redeemButton:hover {
+	background: url("../assets/Paywall/Blue_Btn.png") no-repeat -125px 0px;
+}
+
+.radioPaymentWall .redeemCard .redeemForm .redeemButton:active {
+	background: url("../assets/Paywall/Blue_Btn.png") no-repeat -250px 0px;
+}
+
+.radioPaymentWall .redeemCard .redeemForm .redeemButton.disabled {
+	background: url("../assets/Paywall/Blue_Btn.png") no-repeat -375px 0px;
+}
+
+.radioPaymentWall .redeemCard .redeemError,
+.radioPaymentWall .redeemCard .redeemSuccess {
+	display: none;
+	font-size: 12px;
+	text-align: left;
+	line-height: 10px;
+}
+
+
+.radioPaymentWall .redeemCard .redeemLoading {
+	background: url("../assets/Paywall/small_loading.gif") no-repeat scroll left top transparent;
+	width: 16px;
+	height: 16px;
+	float: left;
+	display: none;
+}
+
+
+.gradientButton {
+	color: #f7c78b;
+	font-size: 14px;
+	display: inline-block;
+	text-decoration: none;
+	width: auto;
+	white-space: nowrap;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.gradientButton.disabled {
+	display:none;
+}
+
+.gradientButton .left,
+.gradientButton .right,
+.gradientButton .center {
+	color: #f7c78b;
+	font-family: Agency FB, Steelfish Rg, sans-serif;
+	display: inline-block;
+	text-decoration: none;
+	vertical-align: middle;
+}
+
+a.gradientButton.buyButton {
+	float: right;
+	width: 165px;
+	height: 60px;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+
+a.gradientButton.buyButton .center {
+	background: url("../assets/Paywall/Buy_Btn.png") no-repeat 0px 0px;  
+	width: 165px;
+	height: 60px;
+	text-align: center;
+	line-height: 60px;
+	font-size: 28px;
+}
+
+a.gradientButton.buyButton:hover .center {
+	background: url("../assets/Paywall/Buy_Btn.png") no-repeat -165px 0px;  
+}
+
+a.gradientButton.buyButton:active .center {
+	background: url("../assets/Paywall/Buy_Btn.png") no-repeat -331px 0px;  
+}
+
+a.gradientButton.blue40 {
+	height: 40px;
+	font-size: 14px;
+	color: white;
+}
+
+a.gradientButton.blue40 .left {
+	/*background: url("../assets/Paywall/btn-gift.png") no-repeat scroll left 0px transparent;*/
+	height:40px;
+	width:10px;
+}
+
+a.gradientButton.blue40 .right {
+	/*background: url("../assets/Paywall/btn-gift.png") no-repeat scroll right 0px transparent;*/
+	height:40px;
+	width:10px;
+}
+
+a.gradientButton.blue40 .center {
+	/*background: url("../assets/Paywall/btn-gift.png") no-repeat scroll center 0px transparent;*/
+	height: 40px;
+	text-align: center;
+	line-height: 38px;
+	min-width: 140px;
+}
+
+a.gradientButton.blue40:hover .left {
+	/*background: url("../assets/Paywall/btn-gift.png") no-repeat scroll left -40px transparent;*/
+}
+
+a.gradientButton.blue40:hover .right {
+	/*background: url("../assets/Paywall/btn-gift.png") no-repeat scroll right -40px transparent;*/
+}
+
+a.gradientButton.blue40:hover .center {
+	/*background: url("../assets/Paywall/btn-gift.png") no-repeat scroll center -40px transparent;*/
+}
+
+a.gradientButton.blue40:active .left {
+	/*background: url("../assets/Paywall/btn-gift.png") no-repeat scroll left -80px transparent;*/
+}
+
+a.gradientButton.blue40:active .right {
+	/*background: url("../assets/Paywall/btn-gift.png") no-repeat scroll right -80px transparent;*/
+}
+
+a.gradientButton.blue40:active .center {
+	/*background: url("../assets/Paywall/btn-gift.png") no-repeat scroll center -80px transparent;*/
+}
+
+@font-face {
+	font-family: 'Steelfish Rg';
+	font-weight: normal;
+	font-style: normal;
+	src: url('../fonts/steelfish rg.eot');
+	src: local('☺'),
+	     url('../fonts/steelfish rg.eot?#iefix') format('embedded-opentype'),
+	     url('../fonts/steelfish rg.woff') format('woff'),
+	     url('../fonts/steelfish rg.ttf') format('truetype'),
+	     url('../fonts/steelfish rg.svg') format('svg');
+}

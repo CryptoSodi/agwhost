@@ -1,0 +1,34 @@
+{
+"Credits": [
+{
+	"type":"Scrolling",
+	"duration":"25",
+	"title":"-- Kabam Austin --",
+	"body":"Larissa Angus\nJohn Balestrieri\nBen Bechtel\nChris Bernert\nTodd Bradfute\nRobert Croft\nJaedyn Draper\nTheresa Edwards\nJon Gregerson\nJohn Karnay\nChris Graham\nAndrew Hilvers\nSteve Hoelle\nMike Holcolmb\nStephen Huff\nWarren Grubbs\nJoe MacDonald\nVinnie Martinez\nVal Massey\nBrian Mazza\nJames McCoy\nSean Murphy\nDashiel Nemeth\nJustin Opitz\nJohn Place\nPhillip Reagan\nRob Reininger\nLouis Ross\nRagnar Scheuermann\nMatt Smith\nTosh Toida\nGary Wagner\nMike Wallis\nEric Wilhelm\nCharity Woosley"
+},
+{
+	"type":"Scrolling",
+	"duration":"30",
+	"title":"-- Kabam San Francisco --",
+	"body":"Charles Boatwright\nRyan Boughter\nCassie Bradley\nSteven Chin\nKevin Chou\nJason Courtney\nEmily Gladstone Cole\nNewton Der\nMichael Doty\nDmitri Ellingson\nDave Espos\nTim Ernst\nBriana Gerot\nDaniel Helmhold\nJosue Huerta\nRutso Hsu\nPeter Jackson\nKeith Kawahata\nMclean Kendree\nArturo Lucero\nChris Martinez\nBrian Matyas\nDave McNeal\nStephanie Mello\nSam Mizzi\nAndrew Naylor\nGene Nazarov\nChris O'Halloran\nMike Pierce\nJoe Prestipino\nLiz Pulchny\nAmit Ranade\nJustin Sante\nAndy Seul\nSainath Shenoy\nAndrew Sheppard\nRoger Tam\nJeremy Tan\nAmeet Tanna\nDen Yang\nTaek Yun"
+},
+{
+	"type":"Scrolling",
+	"duration":"10",
+	"title":"-- Voice Cast --",
+	"body":"Jeffrey Combs - The All Seeing Eye of the Imperium"
+},
+{
+	"type":"Scrolling",
+	"duration":"15",
+	"title":"-- Outsource Art Studios --",
+	"body":"CGBot\nValkyrie Entertainment\nPowerhouse Animation Studios"
+},
+{
+	"type":"Scrolling",
+	"duration":"15",
+	"title":"-- Special Thanks --",
+	"body":"Jeramy Bergerson\nTim Keating\nPeter Phillips\nBrad Pollard"
+}
+]
+}

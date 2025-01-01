@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:b9628bf2680cf9ac975bcc3ddfd78b43$ -->
+<TextureAtlas imagePath="TyrannarStarbase.png">
+    <SubTexture name="BarrierBase1" x="1981" y="610" width="64" height="40" frameX="-119" frameY="-142" frameWidth="302" frameHeight="302"/>
+    <SubTexture name="BarrierBase2" x="1947" y="754" width="68" height="44" frameX="-117" frameY="-141" frameWidth="302" frameHeight="302"/>
+    <SubTexture name="BarrierBase3" x="1879" y="750" width="68" height="52" frameX="-117" frameY="-147" frameWidth="302" frameHeight="302"/>
+    <SubTexture name="BarrierBase4" x="1885" y="672" width="74" height="78" frameX="-114" frameY="-147" frameWidth="302" frameHeight="302"/>
+    <SubTexture name="BarrierBase5" x="1811" y="511" width="96" height="122" frameX="-103" frameY="-134" frameWidth="302" frameHeight="302"/>
+    <SubTexture name="BarrierBaseDamaged1" x="1981" y="570" width="64" height="40" frameX="-119" frameY="-142" frameWidth="302" frameHeight="302"/>
+    <SubTexture name="BarrierBaseDamaged2" x="1811" y="785" width="68" height="44" frameX="-117" frameY="-141" frameWidth="302" frameHeight="302"/>
+    <SubTexture name="BarrierBaseDamaged3" x="1959" y="702" width="68" height="52" frameX="-117" frameY="-147" frameWidth="302" frameHeight="302"/>
+    <SubTexture name="BarrierBaseDamaged4" x="1811" y="633" width="74" height="78" frameX="-114" frameY="-147" frameWidth="302" frameHeight="302"/>
+    <SubTexture name="BarrierBaseDamaged5" x="1939" y="446" width="96" height="124" frameX="-103" frameY="-134" frameWidth="302" frameHeight="302"/>
+    <SubTexture name="BarrierDestroyed1" x="1981" y="650" width="62" height="52" frameX="-118" frameY="-131" frameWidth="302" frameHeight="302"/>
+    <SubTexture name="BarrierDestroyed2" x="1981" y="650" width="62" height="52" frameX="-118" frameY="-131" frameWidth="302" frameHeight="302"/>
+    <SubTexture name="BarrierDestroyed3" x="1811" y="711" width="68" height="74" frameX="-115" frameY="-128" frameWidth="302" frameHeight="302"/>
+    <SubTexture name="BarrierDestroyed4" x="1907" y="570" width="74" height="102" frameX="-112" frameY="-131" frameWidth="302" frameHeight="302"/>
+    <SubTexture name="BarrierDestroyed5" x="1943" y="318" width="98" height="128" frameX="-101" frameY="-131" frameWidth="302" frameHeight="302"/>
+    <SubTexture name="Corner" x="254" y="1258" width="265" height="122" frameX="-582" frameY="0" frameWidth="1423" frameHeight="1988"/>
+    <SubTexture name="Iso1x1" x="1811" y="445" width="128" height="66"/>
+    <SubTexture name="Iso2x2" x="0" y="1258" width="254" height="129"/>
+    <SubTexture name="Iso3x3" x="1335" y="814" width="380" height="192"/>
+    <SubTexture name="Iso5th" x="2007" y="0" width="28" height="15"/>
+    <SubTexture name="StarbaseArm" x="1811" y="318" width="132" height="127"/>
+    <SubTexture name="StarbaseArm1x2" x="1812" y="159" width="195" height="159"/>
+    <SubTexture name="StarbaseArm2x1" x="1812" y="0" width="195" height="159"/>
+    <SubTexture name="StarbaseBaseA" x="0" y="0" width="1423" height="788" frameX="0" frameY="-60" frameWidth="1423" frameHeight="1988"/>
+    <SubTexture name="StarbaseBaseB" x="0" y="788" width="1335" height="470" frameX="-42" frameY="-490" frameWidth="1423" frameHeight="1988"/>
+    <SubTexture name="StarbaseBaseC" x="1423" y="0" width="389" height="308" frameX="-516" frameY="-889" frameWidth="1423" frameHeight="1988"/>
+    <SubTexture name="StarbaseBaseD" x="0" y="1417" width="1097" height="588" frameX="-163" frameY="-909" frameWidth="1423" frameHeight="1988"/>
+    <SubTexture name="StarbaseBaseE" x="1715" y="829" width="313" height="588" frameX="-551" frameY="-1398" frameWidth="1423" frameHeight="1988"/>
+    <SubTexture name="StarbasePlatformA" x="1423" y="561" width="388" height="253"/>
+    <SubTexture name="StarbasePlatformB" x="1423" y="308" width="388" height="253"/>
+</TextureAtlas>

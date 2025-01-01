@@ -1,0 +1,93 @@
+#fbMenu {
+font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+font-size:11px;
+background-color: #000000;
+position: absolute;	
+top: 0px;
+left: 0px;
+right: 0px;
+height: 29px;
+display:none;
+}
+
+#fbBtnBar {
+/*border-bottom:1px solid #898989;*/
+height:19px;
+list-style:none;
+margin:5px 5px 5px;
+padding:0;
+/*position: absolute;*/
+/*top: 5px;
+left: 5px;
+right: 5px;*/
+}
+
+#fbBtnBar li.first {
+margin-left: 0px;
+}
+
+#fbBtnBar li {
+float:left;
+}
+
+#fbBtnBar li.right {
+float:right;
+}
+
+#fbBtnBar li a {
+background-color:#f1f1f1;
+border:1px solid #898989;
+/*border-bottom:0;*/
+border-left-width:0;
+color:#333;
+display:block;
+float:left;
+font-weight:700;
+height:13px;
+position:relative;
+text-decoration:none;
+padding:2px 9px 3px 8px;
+}
+
+#fbBtnBar li.first a {
+border-left-width:1px;
+}
+
+#fbBtnBar li a:hover {
+text-decoration:underline;
+}
+
+#fbBtnBar li a.selected {
+background-color:#6D84B4;
+color:#fff;
+border-color:#3B5998 #5973A9;
+}
+
+#fbBtnBar li a img {
+border:0;
+margin-top:1px;
+}
+
+#fbBtnBar li a.wimg {
+padding-right:24px;
+}
+
+#fbBtnBar li.right a {
+border-right-width:0;
+border-left-width:1px;
+}
+
+#fbBtnBar li.last {
+margin-right:10px;
+}
+
+#fbBtnBar li.last a {
+border-right-width:1px;
+}
+
+#nav_like{
+	border:none;
+	overflow:hidden;
+	width:450px;
+	height:21px;
+}

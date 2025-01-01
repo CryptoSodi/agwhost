@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:0521a8811b0b95b1b0beab86b06cf72a$ -->
+<TextureAtlas imagePath="VFX.png">
+    <SubTexture name="AntiMissile" x="1542" y="189" width="256" height="54" frameX="0" frameY="-38" frameWidth="256" frameHeight="128"/>
+    <SubTexture name="ArcDisintegrator^0" x="364" y="868" width="128" height="32"/>
+    <SubTexture name="ArcDisintegrator^1" x="493" y="836" width="128" height="32"/>
+    <SubTexture name="ArcDisintegrator^2" x="750" y="877" width="128" height="32"/>
+    <SubTexture name="ArcDisintegrator^3" x="493" y="803" width="128" height="32"/>
+    <SubTexture name="ArcKinetic" x="1904" y="1340" width="128" height="86" frameX="0" frameY="-22" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="ArcPhotonBurster^0" x="0" y="931" width="128" height="64"/>
+    <SubTexture name="ArcPhotonBurster^1" x="235" y="807" width="128" height="64"/>
+    <SubTexture name="ArcPhotonBurster^10" x="364" y="803" width="128" height="64"/>
+    <SubTexture name="ArcPhotonBurster^2" x="0" y="866" width="128" height="64"/>
+    <SubTexture name="ArcPhotonBurster^3" x="235" y="742" width="128" height="64"/>
+    <SubTexture name="ArcPhotonBurster^4" x="502" y="738" width="128" height="64"/>
+    <SubTexture name="ArcPhotonBurster^5" x="373" y="738" width="128" height="64"/>
+    <SubTexture name="ArcPhotonBurster^6" x="750" y="812" width="128" height="64"/>
+    <SubTexture name="ArcPhotonBurster^7" x="502" y="673" width="128" height="64"/>
+    <SubTexture name="ArcPhotonBurster^8" x="373" y="673" width="128" height="64"/>
+    <SubTexture name="ArcPhotonBurster^9" x="0" y="801" width="128" height="64"/>
+    <SubTexture name="AttackDebuff_Level01" x="631" y="752" width="18" height="18"/>
+    <SubTexture name="AttackDebuff_Level02" x="631" y="733" width="18" height="18"/>
+    <SubTexture name="AttackDebuff_Level03" x="631" y="714" width="18" height="18"/>
+    <SubTexture name="BaseBar" x="1215" y="618" width="66" height="16"/>
+    <SubTexture name="BaseBarGreen" x="1914" y="879" width="60" height="10"/>
+    <SubTexture name="BaseSelector" x="881" y="743" width="122" height="120"/>
+    <SubTexture name="BattleIcon^0" x="1775" y="1266" width="128" height="128"/>
+    <SubTexture name="BattleIcon^1" x="1391" y="1076" width="128" height="128"/>
+    <SubTexture name="BattleIcon^10" x="1262" y="957" width="128" height="128"/>
+    <SubTexture name="BattleIcon^11" x="1133" y="880" width="128" height="128"/>
+    <SubTexture name="BattleIcon^12" x="1004" y="835" width="128" height="128"/>
+    <SubTexture name="BattleIcon^13" x="752" y="683" width="128" height="128"/>
+    <SubTexture name="BattleIcon^14" x="510" y="544" width="128" height="128"/>
+    <SubTexture name="BattleIcon^15" x="381" y="544" width="128" height="128"/>
+    <SubTexture name="BattleIcon^16" x="0" y="672" width="128" height="128"/>
+    <SubTexture name="BattleIcon^17" x="252" y="544" width="128" height="128"/>
+    <SubTexture name="BattleIcon^18" x="1906" y="1211" width="128" height="128"/>
+    <SubTexture name="BattleIcon^19" x="1520" y="1171" width="124" height="124" frameX="-1" frameY="-3" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="BattleIcon^2" x="1777" y="1137" width="128" height="128"/>
+    <SubTexture name="BattleIcon^3" x="1908" y="1082" width="128" height="128"/>
+    <SubTexture name="BattleIcon^4" x="1779" y="1008" width="128" height="128"/>
+    <SubTexture name="BattleIcon^5" x="1405" y="947" width="128" height="128"/>
+    <SubTexture name="BattleIcon^6" x="1914" y="953" width="128" height="128"/>
+    <SubTexture name="BattleIcon^7" x="1785" y="879" width="128" height="128"/>
+    <SubTexture name="BattleIcon^8" x="1526" y="818" width="128" height="128"/>
+    <SubTexture name="BattleIcon^9" x="1276" y="828" width="128" height="128"/>
+    <SubTexture name="BeamAntimatter" x="771" y="300" width="256" height="33" frameX="0" frameY="-2" frameWidth="256" frameHeight="35"/>
+    <SubTexture name="BeamDisintegration^0" x="514" y="274" width="256" height="33"/>
+    <SubTexture name="BeamDisintegration^1" x="0" y="277" width="256" height="33"/>
+    <SubTexture name="BeamDisintegration^2" x="257" y="274" width="256" height="33"/>
+    <SubTexture name="BeamDisintegration^3" x="257" y="240" width="256" height="33"/>
+    <SubTexture name="BeamGraviton^0" x="1028" y="286" width="256" height="35"/>
+    <SubTexture name="BeamGraviton^1" x="771" y="264" width="256" height="35"/>
+    <SubTexture name="BeamGraviton^2" x="514" y="238" width="256" height="35"/>
+    <SubTexture name="BeamGraviton^3" x="1028" y="250" width="256" height="35"/>
+    <SubTexture name="BeamGraviton^4" x="771" y="228" width="256" height="35"/>
+    <SubTexture name="BeamPlasma" x="771" y="191" width="256" height="36"/>
+    <SubTexture name="BeamPulseLaser" x="1285" y="297" width="256" height="34" frameX="0" frameY="0" frameWidth="256" frameHeight="36"/>
+    <SubTexture name="BlastRadius" x="1799" y="0" width="248" height="166" frameX="-4" frameY="-44" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="BombardmentCannon" x="130" y="1036" width="64" height="16"/>
+    <SubTexture name="BookMark" x="940" y="625" width="74" height="52"/>
+    <SubTexture name="Canister" x="199" y="624" width="48" height="34" frameX="-6" frameY="-13" frameWidth="60" frameHeight="60"/>
+    <SubTexture name="DefenseDebuff_Level01" x="631" y="695" width="18" height="18"/>
+    <SubTexture name="DefenseDebuff_Level02" x="631" y="676" width="18" height="18"/>
+    <SubTexture name="DefenseDebuff_Level03" x="639" y="657" width="18" height="18"/>
+    <SubTexture name="DeflectorScreen" x="1534" y="947" width="114" height="118" frameX="-6" frameY="-10" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="Destinationicon" x="1520" y="1087" width="126" height="64" frameX="-1" frameY="-31" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="DistortionWeb" x="1799" y="167" width="204" height="118" frameX="-26" frameY="-4" frameWidth="256" frameHeight="128"/>
+    <SubTexture name="Drone" x="639" y="544" width="19" height="30" frameX="-12" frameY="-5" frameWidth="43" frameHeight="40"/>
+    <SubTexture name="Drone_B" x="639" y="575" width="19" height="24" frameX="-13" frameY="-8" frameWidth="43" frameHeight="40"/>
+    <SubTexture name="EnemySelector" x="659" y="541" width="95" height="48"/>
+    <SubTexture name="EngineGlow" x="659" y="433" width="108" height="50" frameX="-9" frameY="-43" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="EnginesDown" x="1188" y="826" width="87" height="19" frameX="-2" frameY="-4" frameWidth="91" frameHeight="25"/>
+    <SubTexture name="EnginesRestored" x="659" y="366" width="111" height="19" frameX="-2" frameY="-4" frameWidth="115" frameHeight="25"/>
+    <SubTexture name="FusionBeamerCharge^0" x="1647" y="1143" width="64" height="64"/>
+    <SubTexture name="FusionBeamerCharge^1" x="658" y="621" width="64" height="64"/>
+    <SubTexture name="FusionBeamerCharge^2" x="129" y="672" width="64" height="64"/>
+    <SubTexture name="FusionBeamerCharge^3" x="1712" y="1094" width="64" height="64"/>
+    <SubTexture name="HealthBar" x="1744" y="440" width="52" height="3"/>
+    <SubTexture name="HealthBarGreen" x="1744" y="436" width="52" height="3"/>
+    <SubTexture name="IGA/Thruster^0" x="201" y="506" width="50" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="IGA/Thruster^1" x="1477" y="814" width="48" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="IGA/Thruster^2" x="201" y="441" width="50" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="IGA/Thruster^3" x="1477" y="749" width="48" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="IGA/Thruster^4" x="201" y="376" width="50" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="IGA/Thruster^5" x="1482" y="684" width="48" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="IGA/Thruster^6" x="201" y="311" width="50" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="IGA_Drone" x="2022" y="916" width="19" height="32" frameX="-12" frameY="-3" frameWidth="43" frameHeight="40"/>
+    <SubTexture name="IGA_Missile" x="883" y="1094" width="64" height="14" frameX="0" frameY="-9" frameWidth="64" frameHeight="32"/>
+    <SubTexture name="IMP/Thruster^0" x="1178" y="1009" width="64" height="64"/>
+    <SubTexture name="IMP/Thruster^1" x="1113" y="1009" width="64" height="64"/>
+    <SubTexture name="IMP/Thruster^2" x="1048" y="964" width="64" height="64"/>
+    <SubTexture name="IMP/Thruster^3" x="983" y="964" width="64" height="64"/>
+    <SubTexture name="IMP/Thruster^4" x="751" y="999" width="64" height="64"/>
+    <SubTexture name="IMP/Thruster^5" x="1414" y="808" width="62" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="IMP/Thruster^6" x="686" y="975" width="64" height="64"/>
+    <SubTexture name="IMP/Thruster^7" x="1220" y="553" width="62" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="IMPBeam1^0" x="1542" y="0" width="256" height="64"/>
+    <SubTexture name="IMPBeam1^1" x="1285" y="0" width="256" height="64"/>
+    <SubTexture name="IMPBeam1^10" x="771" y="128" width="256" height="62" frameX="0" frameY="0" frameWidth="256" frameHeight="64"/>
+    <SubTexture name="IMPBeam1^2" x="1028" y="0" width="256" height="64"/>
+    <SubTexture name="IMPBeam1^3" x="771" y="0" width="256" height="64"/>
+    <SubTexture name="IMPBeam1^4" x="514" y="128" width="256" height="62" frameX="0" frameY="0" frameWidth="256" frameHeight="64"/>
+    <SubTexture name="IMPBeam1^5" x="0" y="167" width="256" height="62" frameX="0" frameY="0" frameWidth="256" frameHeight="64"/>
+    <SubTexture name="IMPBeam1^6" x="257" y="128" width="256" height="62" frameX="0" frameY="0" frameWidth="256" frameHeight="64"/>
+    <SubTexture name="IMPBeam1^7" x="514" y="0" width="256" height="64"/>
+    <SubTexture name="IMPBeam1^8" x="1542" y="65" width="256" height="62" frameX="0" frameY="0" frameWidth="256" frameHeight="64"/>
+    <SubTexture name="IMPBeam1^9" x="1285" y="65" width="256" height="62" frameX="0" frameY="0" frameWidth="256" frameHeight="64"/>
+    <SubTexture name="IMPBeam2^0" x="257" y="0" width="256" height="64"/>
+    <SubTexture name="IMPBeam2^1" x="1028" y="65" width="256" height="62" frameX="0" frameY="-1" frameWidth="256" frameHeight="64"/>
+    <SubTexture name="IMPBeam2^2" x="771" y="65" width="256" height="62" frameX="0" frameY="0" frameWidth="256" frameHeight="64"/>
+    <SubTexture name="IMPBeam2^3" x="1028" y="189" width="256" height="60" frameX="0" frameY="-1" frameWidth="256" frameHeight="64"/>
+    <SubTexture name="IMPBeam2^4" x="1542" y="128" width="256" height="60" frameX="0" frameY="-1" frameWidth="256" frameHeight="64"/>
+    <SubTexture name="IMPBeam2^5" x="514" y="65" width="256" height="62" frameX="0" frameY="0" frameWidth="256" frameHeight="64"/>
+    <SubTexture name="IMPBeam2^6" x="257" y="65" width="256" height="62" frameX="0" frameY="0" frameWidth="256" frameHeight="64"/>
+    <SubTexture name="IMPBeam2^7" x="1285" y="128" width="256" height="60" frameX="0" frameY="-1" frameWidth="256" frameHeight="64"/>
+    <SubTexture name="IMPBeam2^8" x="1028" y="128" width="256" height="60" frameX="0" frameY="0" frameWidth="256" frameHeight="64"/>
+    <SubTexture name="IMPBeam2^9" x="1285" y="189" width="256" height="58" frameX="0" frameY="-1" frameWidth="256" frameHeight="64"/>
+    <SubTexture name="IMPProjectile1" x="1405" y="938" width="116" height="8" frameX="-7" frameY="-11" frameWidth="128" frameHeight="32"/>
+    <SubTexture name="IMPProjectile2" x="879" y="864" width="124" height="8" frameX="-2" frameY="-11" frameWidth="128" frameHeight="32"/>
+    <SubTexture name="IMPTorpedo1^0" x="1990" y="700" width="58" height="64" frameX="-4" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="IMPTorpedo1^1" x="944" y="890" width="56" height="50" frameX="-2" frameY="-5" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="IMPTorpedo1^10" x="1724" y="704" width="64" height="64"/>
+    <SubTexture name="IMPTorpedo1^2" x="2004" y="277" width="44" height="48" frameX="-8" frameY="-8" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="IMPTorpedo1^3" x="972" y="387" width="50" height="42" frameX="-8" frameY="-11" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="IMPTorpedo1^4" x="199" y="659" width="44" height="42" frameX="-8" frameY="-10" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="IMPTorpedo1^5" x="881" y="683" width="56" height="50" frameX="-4" frameY="-7" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="IMPTorpedo1^6" x="1486" y="436" width="52" height="52" frameX="-5" frameY="-5" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="IMPTorpedo1^7" x="972" y="334" width="50" height="52" frameX="-5" frameY="-6" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="IMPTorpedo1^8" x="1215" y="700" width="64" height="64"/>
+    <SubTexture name="IMPTorpedo1^9" x="1215" y="635" width="64" height="64"/>
+    <SubTexture name="IMP_Weap_Arc" x="1028" y="322" width="254" height="165"/>
+    <SubTexture name="KineticPulseCharge^0" x="1647" y="1078" width="64" height="64"/>
+    <SubTexture name="KineticPulseCharge^1" x="1714" y="1029" width="64" height="64"/>
+    <SubTexture name="KineticPulseCharge^2" x="1649" y="1013" width="64" height="64"/>
+    <SubTexture name="KineticPulseCharge^3" x="1714" y="964" width="64" height="64"/>
+    <SubTexture name="MissileBattery" x="659" y="484" width="108" height="36"/>
+    <SubTexture name="MuzzleFlash" x="659" y="590" width="82" height="30" frameX="-22" frameY="-48" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="PDBeam^0" x="362" y="901" width="128" height="16"/>
+    <SubTexture name="PDBeam^1" x="233" y="889" width="128" height="16"/>
+    <SubTexture name="PDBeam^2" x="233" y="872" width="128" height="16"/>
+    <SubTexture name="PDBeam^3" x="493" y="886" width="128" height="16"/>
+    <SubTexture name="PDBeam^4" x="493" y="869" width="128" height="16"/>
+    <SubTexture name="PhotonBurstCharge^0" x="1649" y="948" width="64" height="64"/>
+    <SubTexture name="PhotonBurstCharge^1" x="1720" y="899" width="64" height="64"/>
+    <SubTexture name="PhotonBurstCharge^2" x="1655" y="883" width="64" height="64"/>
+    <SubTexture name="PhotonBurstCharge^3" x="1720" y="834" width="64" height="64"/>
+    <SubTexture name="PlasmaMissile" x="1188" y="788" width="88" height="37"/>
+    <SubTexture name="ProjectileBombardmentCannon" x="879" y="873" width="122" height="16" frameX="-5" frameY="0" frameWidth="128" frameHeight="16"/>
+    <SubTexture name="ProjectileParticleBlaster" x="815" y="910" width="62" height="28" frameX="0" frameY="-19" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="ProjectileRailgun" x="1520" y="1152" width="126" height="18" frameX="0" frameY="-24" frameWidth="128" frameHeight="68"/>
+    <SubTexture name="ProjectileSentinelMount" x="244" y="673" width="128" height="68"/>
+    <SubTexture name="ProjectileStrikeCannon" x="659" y="386" width="110" height="46" frameX="-9" frameY="-13" frameWidth="128" frameHeight="68"/>
+    <SubTexture name="PulseNodeAOE^0" x="0" y="0" width="256" height="166" frameX="0" frameY="-45" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="PulseNodeCharge^0" x="1655" y="818" width="64" height="64"/>
+    <SubTexture name="PulseNodeCharge^1" x="1405" y="873" width="64" height="64"/>
+    <SubTexture name="PulseNodeCharge^2" x="940" y="678" width="64" height="64"/>
+    <SubTexture name="PulseNodeCharge^3" x="1976" y="830" width="64" height="64"/>
+    <SubTexture name="PulseNode^0" x="621" y="946" width="64" height="64"/>
+    <SubTexture name="PulseNode^1" x="556" y="903" width="64" height="64"/>
+    <SubTexture name="PulseNode^10" x="491" y="903" width="64" height="64"/>
+    <SubTexture name="PulseNode^11" x="0" y="996" width="64" height="64"/>
+    <SubTexture name="PulseNode^12" x="129" y="932" width="64" height="64"/>
+    <SubTexture name="PulseNode^13" x="233" y="906" width="64" height="64"/>
+    <SubTexture name="PulseNode^14" x="877" y="955" width="64" height="64"/>
+    <SubTexture name="PulseNode^15" x="750" y="910" width="64" height="64"/>
+    <SubTexture name="PulseNode^16" x="879" y="890" width="64" height="64"/>
+    <SubTexture name="PulseNode^17" x="622" y="881" width="64" height="64"/>
+    <SubTexture name="PulseNode^18" x="622" y="816" width="64" height="64"/>
+    <SubTexture name="PulseNode^19" x="129" y="867" width="64" height="64"/>
+    <SubTexture name="PulseNode^2" x="129" y="802" width="64" height="64"/>
+    <SubTexture name="PulseNode^20" x="650" y="751" width="64" height="64"/>
+    <SubTexture name="PulseNode^3" x="650" y="686" width="64" height="64"/>
+    <SubTexture name="PulseNode^4" x="129" y="737" width="64" height="64"/>
+    <SubTexture name="PulseNode^5" x="1710" y="1289" width="64" height="64"/>
+    <SubTexture name="PulseNode^6" x="1645" y="1273" width="64" height="64"/>
+    <SubTexture name="PulseNode^7" x="1710" y="1224" width="64" height="64"/>
+    <SubTexture name="PulseNode^8" x="1645" y="1208" width="64" height="64"/>
+    <SubTexture name="PulseNode^9" x="1712" y="1159" width="64" height="64"/>
+    <SubTexture name="SOV/Thruster^0" x="1738" y="639" width="50" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="SOV/Thruster^1" x="1482" y="619" width="48" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="SOV/Thruster^2" x="1996" y="635" width="50" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="SOV/Thruster^3" x="967" y="560" width="48" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="SOV/Thruster^4" x="1996" y="570" width="50" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="SOV/Thruster^5" x="967" y="495" width="48" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="SOV/Thruster^6" x="1742" y="574" width="50" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="SOV_Drone" x="1188" y="722" width="25" height="30" frameX="-9" frameY="-4" frameWidth="43" frameHeight="40"/>
+    <SubTexture name="SOV_Missile" x="818" y="1085" width="64" height="14" frameX="0" frameY="-9" frameWidth="64" frameHeight="32"/>
+    <SubTexture name="Selector" x="659" y="308" width="111" height="57"/>
+    <SubTexture name="Shield^0" x="2048" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^1" x="1005" y="722" width="182" height="112" frameX="-37" frameY="-72" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^10" x="1280" y="691" width="196" height="116" frameX="-29" frameY="-69" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^11" x="1016" y="605" width="198" height="116" frameX="-29" frameY="-69" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^12" x="768" y="451" width="198" height="118" frameX="-29" frameY="-69" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^13" x="0" y="311" width="200" height="120" frameX="-27" frameY="-67" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^14" x="0" y="551" width="198" height="120" frameX="-29" frameY="-67" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^15" x="257" y="308" width="200" height="120" frameX="-27" frameY="-67" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^16" x="1793" y="526" width="202" height="118" frameX="-26" frameY="-69" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^17" x="1789" y="645" width="200" height="120" frameX="-28" frameY="-67" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^18" x="1537" y="582" width="200" height="120" frameX="-28" frameY="-68" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^19" x="1283" y="453" width="202" height="120" frameX="-26" frameY="-68" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^2" x="1789" y="766" width="186" height="112" frameX="-35" frameY="-71" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^20" x="1541" y="342" width="202" height="120" frameX="-26" frameY="-67" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^21" x="1283" y="332" width="202" height="120" frameX="-26" frameY="-67" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^22" x="1799" y="286" width="202" height="120" frameX="-26" frameY="-67" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^23" x="1539" y="463" width="202" height="118" frameX="-26" frameY="-69" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^24" x="1797" y="407" width="202" height="118" frameX="-26" frameY="-69" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^25" x="458" y="308" width="200" height="118" frameX="-28" frameY="-69" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^26" x="0" y="432" width="200" height="118" frameX="-28" frameY="-68" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^3" x="755" y="570" width="184" height="112" frameX="-35" frameY="-72" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^4" x="1531" y="703" width="192" height="114" frameX="-31" frameY="-70" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^5" x="1283" y="574" width="198" height="116" frameX="-29" frameY="-70" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^6" x="458" y="427" width="200" height="116" frameX="-27" frameY="-70" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^7" x="771" y="334" width="200" height="116" frameX="-27" frameY="-69" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^8" x="252" y="429" width="200" height="114" frameX="-27" frameY="-71" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="Shield^9" x="1021" y="488" width="198" height="116" frameX="-29" frameY="-70" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="ShieldsDown" x="1534" y="1066" width="112" height="20" frameX="-8" frameY="-22" frameWidth="128" frameHeight="64"/>
+    <SubTexture name="ShieldsRestored" x="1188" y="765" width="90" height="22" frameX="-19" frameY="-20" frameWidth="128" frameHeight="64"/>
+    <SubTexture name="SignalLost" x="659" y="521" width="106" height="19" frameX="-2" frameY="-4" frameWidth="110" frameHeight="25"/>
+    <SubTexture name="SignalRestored" x="1277" y="808" width="136" height="19" frameX="-2" frameY="-4" frameWidth="140" frameHeight="25"/>
+    <SubTexture name="SpeedDebuff_Level01" x="639" y="638" width="18" height="18"/>
+    <SubTexture name="SpeedDebuff_Level02" x="639" y="619" width="18" height="18"/>
+    <SubTexture name="SpeedDebuff_Level03" x="639" y="600" width="18" height="18"/>
+    <SubTexture name="SpeedUp_Btn" x="753" y="1085" width="64" height="14"/>
+    <SubTexture name="SpeedUp_Btn_Hit" x="454" y="1048" width="64" height="14"/>
+    <SubTexture name="SpeedUp_Btn_RO" x="454" y="1033" width="64" height="14"/>
+    <SubTexture name="SpinalFBeam^0" x="257" y="191" width="256" height="48" frameX="0" frameY="-8" frameWidth="256" frameHeight="64"/>
+    <SubTexture name="SpinalFBeam^1" x="1542" y="293" width="256" height="48" frameX="0" frameY="-8" frameWidth="256" frameHeight="64"/>
+    <SubTexture name="SpinalFBeam^2" x="1285" y="248" width="256" height="48" frameX="0" frameY="-8" frameWidth="256" frameHeight="64"/>
+    <SubTexture name="SpinalFBeam^3" x="1542" y="244" width="256" height="48" frameX="0" frameY="-8" frameWidth="256" frameHeight="64"/>
+    <SubTexture name="SpinalFBeam^4" x="514" y="191" width="256" height="46" frameX="0" frameY="-9" frameWidth="256" frameHeight="64"/>
+    <SubTexture name="SpinalFBeam^5" x="0" y="230" width="256" height="46" frameX="0" frameY="-9" frameWidth="256" frameHeight="64"/>
+    <SubTexture name="TYR/Thruster^0" x="1742" y="509" width="50" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="TYR/Thruster^1" x="972" y="430" width="48" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="TYR/Thruster^2" x="1486" y="554" width="50" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="TYR/Thruster^3" x="2000" y="505" width="48" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="TYR/Thruster^4" x="1486" y="489" width="50" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="TYR/Thruster^5" x="2000" y="440" width="48" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="TYR/Thruster^6" x="1744" y="444" width="50" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="TY_Missile" x="389" y="1033" width="64" height="16" frameX="0" frameY="-8" frameWidth="64" frameHeight="32"/>
+    <SubTexture name="TargetLoc" x="631" y="771" width="16" height="16"/>
+    <SubTexture name="TorpedoAntimatter^0" x="687" y="828" width="62" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="TorpedoAntimatter^1" x="493" y="968" width="64" height="64"/>
+    <SubTexture name="TorpedoAntimatter^10" x="428" y="968" width="64" height="64"/>
+    <SubTexture name="TorpedoAntimatter^2" x="0" y="1061" width="64" height="64"/>
+    <SubTexture name="TorpedoAntimatter^3" x="65" y="997" width="64" height="64"/>
+    <SubTexture name="TorpedoAntimatter^4" x="363" y="918" width="64" height="64"/>
+    <SubTexture name="TorpedoAntimatter^5" x="194" y="971" width="64" height="64"/>
+    <SubTexture name="TorpedoAntimatter^6" x="298" y="918" width="64" height="64"/>
+    <SubTexture name="TorpedoAntimatter^7" x="1271" y="1086" width="64" height="64"/>
+    <SubTexture name="TorpedoAntimatter^8" x="1206" y="1086" width="64" height="64"/>
+    <SubTexture name="TorpedoAntimatter^9" x="1141" y="1074" width="64" height="64"/>
+    <SubTexture name="TorpedoGraviton^0" x="324" y="983" width="64" height="62" frameX="0" frameY="-2" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="TorpedoGraviton^1" x="687" y="893" width="62" height="62" frameX="-1" frameY="-2" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="TorpedoGraviton^10" x="259" y="983" width="64" height="62" frameX="0" frameY="-2" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="TorpedoGraviton^2" x="1076" y="1074" width="64" height="64"/>
+    <SubTexture name="TorpedoGraviton^3" x="688" y="1064" width="64" height="62" frameX="0" frameY="-2" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="TorpedoGraviton^4" x="1011" y="1029" width="64" height="64"/>
+    <SubTexture name="TorpedoGraviton^5" x="946" y="1029" width="64" height="64"/>
+    <SubTexture name="TorpedoGraviton^6" x="881" y="1020" width="64" height="64"/>
+    <SubTexture name="TorpedoGraviton^7" x="816" y="1020" width="64" height="64"/>
+    <SubTexture name="TorpedoGraviton^8" x="623" y="1040" width="64" height="62" frameX="0" frameY="-2" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="TorpedoGraviton^9" x="558" y="1011" width="64" height="62" frameX="0" frameY="-2" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Armor^0" x="940" y="570" width="26" height="24" frameX="-19" frameY="-21" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Armor^1" x="815" y="939" width="32" height="34" frameX="-14" frameY="-14" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Armor^10" x="1990" y="765" width="58" height="64" frameX="-6" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Armor^11" x="1220" y="488" width="62" height="64" frameX="-2" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Armor^12" x="1724" y="769" width="64" height="64"/>
+    <SubTexture name="Weap_Effect_Armor^13" x="2048" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Armor^2" x="944" y="941" width="38" height="36" frameX="-12" frameY="-14" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Armor^3" x="194" y="702" width="42" height="38" frameX="-13" frameY="-12" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Armor^4" x="1133" y="835" width="42" height="44" frameX="-12" frameY="-9" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Armor^5" x="1744" y="342" width="52" height="50" frameX="-8" frameY="-5" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Armor^6" x="1973" y="895" width="48" height="54" frameX="-10" frameY="-1" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Armor^7" x="2002" y="326" width="46" height="58" frameX="-11" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Armor^8" x="1486" y="377" width="52" height="58" frameX="-8" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Armor^9" x="1914" y="890" width="58" height="62" frameX="-6" frameY="-1" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Slow^0" x="2048" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Slow^1" x="2048" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Slow^10" x="2004" y="222" width="44" height="54" frameX="-12" frameY="-10" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Slow^11" x="2002" y="385" width="46" height="54" frameX="-14" frameY="-8" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Slow^12" x="2004" y="167" width="44" height="54" frameX="-14" frameY="-8" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Slow^13" x="194" y="741" width="40" height="60" frameX="-16" frameY="-1" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Slow^14" x="1470" y="879" width="40" height="56" frameX="-15" frameY="-3" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Slow^15" x="199" y="571" width="48" height="52" frameX="-5" frameY="-5" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Slow^16" x="2048" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Slow^17" x="2048" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Slow^2" x="2048" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Slow^3" x="2048" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Slow^4" x="940" y="595" width="22" height="28" frameX="-3" frameY="-26" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Slow^5" x="815" y="974" width="28" height="24" frameX="-3" frameY="-28" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Slow^6" x="844" y="982" width="28" height="22" frameX="-5" frameY="-29" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Slow^7" x="1176" y="846" width="38" height="32" frameX="-7" frameY="-18" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Slow^8" x="194" y="802" width="40" height="40" frameX="-9" frameY="-9" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Slow^9" x="715" y="760" width="36" height="38" frameX="-12" frameY="-11" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Weap^0" x="2048" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Weap^1" x="2048" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Weap^10" x="723" y="621" width="30" height="44" frameX="-28" frameY="-10" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Weap^11" x="194" y="886" width="38" height="42" frameX="-19" frameY="-12" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Weap^12" x="194" y="843" width="38" height="42" frameX="-19" frameY="-12" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Weap^13" x="1744" y="393" width="52" height="42" frameX="-6" frameY="-13" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Weap^14" x="1486" y="332" width="54" height="44" frameX="-3" frameY="-12" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Weap^15" x="2048" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Weap^16" x="2048" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Weap^2" x="2048" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Weap^3" x="1248" y="846" width="20" height="20" frameX="-24" frameY="-22" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Weap^4" x="2022" y="895" width="20" height="20" frameX="-25" frameY="-21" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Weap^5" x="1215" y="846" width="32" height="30" frameX="-22" frameY="-10" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Weap^6" x="715" y="799" width="34" height="28" frameX="-22" frameY="-11" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Weap^7" x="715" y="717" width="36" height="42" frameX="-20" frameY="-11" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Weap^8" x="848" y="939" width="28" height="42" frameX="-29" frameY="-11" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Weap_Effect_Weap^9" x="723" y="672" width="28" height="44" frameX="-30" frameY="-10" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="missile_trail" x="723" y="666" width="30" height="5"/>
+</TextureAtlas>

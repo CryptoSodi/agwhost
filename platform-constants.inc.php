@@ -1,0 +1,58 @@
+<?php
+	abstract class PlayPlatform
+	{
+		const Facebook = 0;
+		const Kabam = 1;
+		const iOS = 2;
+		const Google = 3;
+		const Android = 4;
+		const KabamGuest = 5;
+		const Viximo = 6;
+		const Plinga = 7;
+		const Tuenti = 8;
+		const Orkut = 9;
+		const Naszaklasa = 10;
+		const Gaia = 11;
+		const Yahoo = 12;
+		const MyYearbook = 13;
+		const Friendster = 14;
+		const Vznet = 15;
+		const Spielwiese = 16;
+		const Odnoklassniki = 17;
+		const Bebo = 18;
+		const Cafemom = 19;
+		const Lokalisten = 20;
+		const Quepasa = 21;
+		const Schuelervz = 22;
+		const Studivz = 23;
+		const Zoogr = 24;
+		const Netlog = 25;
+		const Badoo = 26;
+		const Skyrock = 27;
+		const FriendsReunited = 28;
+		const Trombi = 29;
+		const Hyves = 30;
+		const Werkenntwen = 31;
+		const Iwiwhu = 32;
+		const Kwick = 33;
+		const Vkontakte = 34;
+		const Mailru = 35;
+		const Kongregate = 36;
+		const Jeuxfr = 37;
+		const Spelletjesnl = 38;
+		const Jetztspielende = 39;
+		const Grypl = 40;
+		const Gamesgamescom = 41;
+		const Giociit = 42;
+		const Jeufr = 43;
+		const Spelnl = 44;
+		const Spielencom = 45;
+		const Agamecom = 46;
+		const Spil = 47;
+		const Steam = 48;
+		const Rotmg = 49;
+		const Mobage = 50;
+		const GoogleApp = 51;
+		const AmazonApp = 52;
+	};
+?>

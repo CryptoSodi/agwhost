@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:8a4471d0ff6aca8f58ef1b3f1772e3e9$ -->
+<TextureAtlas>
+    <SubTexture name="BG" x="0" y="0" width="2048" height="2048"/>
+</TextureAtlas>

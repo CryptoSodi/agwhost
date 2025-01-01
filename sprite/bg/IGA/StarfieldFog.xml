@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:8880fb80bcdeecb32a195f5362118527$ -->
+<TextureAtlas imagePath="StarfieldFog.png">
+    <SubTexture name="Fog" x="0" y="1024" width="1024" height="1024"/>
+    <SubTexture name="StarBG" x="0" y="0" width="2022" height="1024" frameX="0" frameY="0" frameWidth="2048" frameHeight="1024"/>
+    <SubTexture name="StarFG" x="1024" y="1024" width="1012" height="1006" frameX="-4" frameY="-6" frameWidth="1024" frameHeight="1024"/>
+</TextureAtlas>

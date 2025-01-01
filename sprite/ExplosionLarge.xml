@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:30abd79dfb2daa4764fe2b6ac9d59e1e$ -->
+<TextureAtlas imagePath="ExplosionLarge.png">
+    <SubTexture name="ExplosionLarge^0" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^1" x="107" y="1993" width="23" height="25" frameX="-99" frameY="-105" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^10" x="1524" y="1732" width="191" height="197" frameX="-15" frameY="-18" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^11" x="1847" y="1642" width="183" height="185" frameX="-25" frameY="-32" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^12" x="1847" y="1455" width="195" height="187" frameX="-16" frameY="-30" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^13" x="1465" y="1543" width="195" height="189" frameX="-16" frameY="-28" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^14" x="1075" y="1539" width="197" height="199" frameX="-17" frameY="-18" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^15" x="1523" y="1312" width="199" height="201" frameX="-17" frameY="-16" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^16" x="1272" y="1543" width="193" height="193" frameX="-17" frameY="-24" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^17" x="667" y="1561" width="199" height="203" frameX="-18" frameY="-14" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^18" x="1095" y="1332" width="201" height="207" frameX="-17" frameY="-11" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^19" x="1296" y="1344" width="199" height="199" frameX="-19" frameY="-21" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^2" x="107" y="1930" width="69" height="63" frameX="-83" frameY="-75" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^20" x="874" y="1503" width="201" height="199" frameX="-19" frameY="-21" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^21" x="464" y="1547" width="203" height="201" frameX="-19" frameY="-19" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^22" x="464" y="1350" width="205" height="197" frameX="-19" frameY="-23" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^23" x="464" y="1145" width="205" height="205" frameX="-20" frameY="-15" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^24" x="667" y="707" width="207" height="207" frameX="-19" frameY="-13" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^25" x="460" y="707" width="207" height="209" frameX="-19" frameY="-12" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^26" x="1838" y="1027" width="207" height="211" frameX="-20" frameY="-12" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^27" x="458" y="932" width="215" height="213" frameX="-13" frameY="-12" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^28" x="243" y="932" width="215" height="215" frameX="-14" frameY="-11" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^29" x="1834" y="1238" width="211" height="217" frameX="-19" frameY="-10" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^3" x="0" y="1930" width="107" height="99" frameX="-65" frameY="-55" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^30" x="1384" y="705" width="227" height="221" frameX="-4" frameY="-8" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^31" x="1157" y="705" width="227" height="223" frameX="-4" frameY="-8" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^32" x="243" y="707" width="217" height="225" frameX="-15" frameY="-7" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^33" x="673" y="1141" width="217" height="229" frameX="-15" frameY="-3" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^34" x="243" y="1155" width="221" height="229" frameX="-14" frameY="-3" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^35" x="673" y="914" width="223" height="227" frameX="-13" frameY="-6" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^36" x="1384" y="926" width="225" height="229" frameX="-11" frameY="-4" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^37" x="930" y="703" width="227" height="229" frameX="-10" frameY="-4" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^38" x="701" y="476" width="229" height="231" frameX="-9" frameY="-2" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^39" x="472" y="476" width="229" height="231" frameX="-9" frameY="-2" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^4" x="1715" y="1827" width="147" height="157" frameX="-36" frameY="-49" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^40" x="243" y="476" width="229" height="231" frameX="-9" frameY="-3" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^41" x="1416" y="472" width="229" height="233" frameX="-9" frameY="-1" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^42" x="1187" y="472" width="229" height="233" frameX="-10" frameY="-1" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^43" x="1677" y="237" width="233" height="233" frameX="-6" frameY="-1" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^44" x="1444" y="237" width="233" height="235" frameX="-6" frameY="-2" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^45" x="717" y="239" width="235" height="237" frameX="-4" frameY="-1" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^46" x="480" y="239" width="237" height="237" frameX="-2" frameY="-1" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^47" x="243" y="239" width="237" height="237" frameX="-2" frameY="-1" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^48" x="1689" y="0" width="239" height="237" frameX="0" frameY="-1" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^49" x="1450" y="0" width="239" height="237" frameX="0" frameY="-1" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^5" x="400" y="1875" width="151" height="163" frameX="-36" frameY="-43" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^50" x="1211" y="0" width="239" height="237" frameX="0" frameY="-1" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^51" x="970" y="0" width="241" height="237" frameX="0" frameY="-1" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^52" x="729" y="0" width="241" height="239" frameX="0" frameY="0" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^53" x="486" y="0" width="243" height="239" frameX="0" frameY="0" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^54" x="243" y="0" width="243" height="239" frameX="0" frameY="0" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^55" x="0" y="1691" width="243" height="239" frameX="0" frameY="0" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^56" x="0" y="1452" width="243" height="239" frameX="0" frameY="0" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^57" x="0" y="1213" width="243" height="239" frameX="0" frameY="-1" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^58" x="0" y="972" width="243" height="241" frameX="0" frameY="0" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^59" x="0" y="729" width="243" height="243"/>
+    <SubTexture name="ExplosionLarge^6" x="243" y="1875" width="157" height="163" frameX="-41" frameY="-27" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^60" x="0" y="486" width="243" height="243"/>
+    <SubTexture name="ExplosionLarge^61" x="0" y="243" width="243" height="243"/>
+    <SubTexture name="ExplosionLarge^62" x="0" y="0" width="243" height="243"/>
+    <SubTexture name="ExplosionLarge^63" x="1209" y="237" width="235" height="235" frameX="0" frameY="-3" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^64" x="970" y="237" width="239" height="233" frameX="0" frameY="-4" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^65" x="952" y="470" width="235" height="233" frameX="0" frameY="-3" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^66" x="1645" y="691" width="229" height="231" frameX="-7" frameY="-4" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^67" x="243" y="1455" width="221" height="231" frameX="-6" frameY="-3" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^68" x="1677" y="470" width="233" height="221" frameX="-4" frameY="-2" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^69" x="1157" y="928" width="225" height="209" frameX="-3" frameY="-3" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^7" x="1874" y="862" width="161" height="165" frameX="-38" frameY="-28" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^70" x="1609" y="1107" width="225" height="205" frameX="-2" frameY="-2" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^71" x="896" y="932" width="221" height="189" frameX="-2" frameY="-15" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^72" x="1611" y="922" width="227" height="185" frameX="-1" frameY="-20" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^73" x="896" y="1121" width="219" height="187" frameX="0" frameY="-19" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^74" x="1320" y="1155" width="203" height="189" frameX="0" frameY="-17" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^75" x="243" y="1686" width="203" height="189" frameX="0" frameY="-18" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^76" x="669" y="1370" width="205" height="191" frameX="0" frameY="-17" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^77" x="890" y="1308" width="205" height="195" frameX="0" frameY="-14" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^78" x="1115" y="1137" width="205" height="195" frameX="0" frameY="-15" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^79" x="1331" y="1736" width="193" height="197" frameX="-13" frameY="-14" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^8" x="1874" y="691" width="163" height="171" frameX="-36" frameY="-32" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^80" x="1138" y="1738" width="193" height="199" frameX="-13" frameY="-13" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^81" x="943" y="1738" width="195" height="201" frameX="-12" frameY="-11" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^82" x="748" y="1764" width="195" height="203" frameX="-12" frameY="-10" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^83" x="551" y="1764" width="197" height="203" frameX="-11" frameY="-11" frameWidth="243" frameHeight="243"/>
+    <SubTexture name="ExplosionLarge^9" x="1660" y="1513" width="187" height="189" frameX="-16" frameY="-20" frameWidth="243" frameHeight="243"/>
+</TextureAtlas>

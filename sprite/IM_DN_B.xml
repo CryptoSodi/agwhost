@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:878be1c2b44782166e75e01d99ae86b7$ -->
+<TextureAtlas imagePath="IM_DN_B.png">
+    <SubTexture name="EXPshipdamage^0" x="774" y="948" width="13" height="17" frameX="-43" frameY="-41" frameWidth="101" frameHeight="101"/>
+    <SubTexture name="EXPshipdamage^1" x="1047" y="1802" width="101" height="101"/>
+    <SubTexture name="EXPshipdamage^10" x="1917" y="580" width="89" height="97" frameX="-7" frameY="-2" frameWidth="101" frameHeight="101"/>
+    <SubTexture name="EXPshipdamage^11" x="1249" y="1889" width="95" height="101" frameX="-3" frameY="0" frameWidth="101" frameHeight="101"/>
+    <SubTexture name="EXPshipdamage^12" x="1872" y="483" width="99" height="97" frameX="-1" frameY="-1" frameWidth="101" frameHeight="101"/>
+    <SubTexture name="EXPshipdamage^13" x="1148" y="1901" width="101" height="99" frameX="0" frameY="-2" frameWidth="101" frameHeight="101"/>
+    <SubTexture name="EXPshipdamage^14" x="1925" y="386" width="99" height="97" frameX="-2" frameY="-1" frameWidth="101" frameHeight="101"/>
+    <SubTexture name="EXPshipdamage^15" x="563" y="1912" width="101" height="101"/>
+    <SubTexture name="EXPshipdamage^16" x="1047" y="1903" width="101" height="99" frameX="0" frameY="-2" frameWidth="101" frameHeight="101"/>
+    <SubTexture name="EXPshipdamage^17" x="1148" y="1802" width="101" height="99" frameX="0" frameY="-1" frameWidth="101" frameHeight="101"/>
+    <SubTexture name="EXPshipdamage^18" x="1915" y="0" width="101" height="101"/>
+    <SubTexture name="EXPshipdamage^2" x="1818" y="585" width="99" height="101" frameX="0" frameY="0" frameWidth="101" frameHeight="101"/>
+    <SubTexture name="EXPshipdamage^3" x="379" y="1637" width="83" height="79" frameX="-3" frameY="-13" frameWidth="101" frameHeight="101"/>
+    <SubTexture name="EXPshipdamage^4" x="462" y="1912" width="101" height="101"/>
+    <SubTexture name="EXPshipdamage^5" x="1814" y="0" width="101" height="101"/>
+    <SubTexture name="EXPshipdamage^6" x="1948" y="1599" width="73" height="81" frameX="-16" frameY="-6" frameWidth="101" frameHeight="101"/>
+    <SubTexture name="EXPshipdamage^7" x="1971" y="483" width="71" height="83" frameX="-17" frameY="-3" frameWidth="101" frameHeight="101"/>
+    <SubTexture name="EXPshipdamage^8" x="1249" y="1802" width="77" height="87" frameX="-14" frameY="0" frameWidth="101" frameHeight="101"/>
+    <SubTexture name="EXPshipdamage^9" x="1840" y="386" width="85" height="91" frameX="-9" frameY="-4" frameWidth="101" frameHeight="101"/>
+    <SubTexture name="IM_DN_100" x="1366" y="1270" width="291" height="255" frameX="-117" frameY="-166" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_101" x="1356" y="766" width="311" height="249" frameX="-107" frameY="-169" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_102" x="774" y="973" width="331" height="243" frameX="-98" frameY="-172" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_103" x="800" y="738" width="347" height="235" frameX="-91" frameY="-176" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_104" x="409" y="948" width="365" height="227" frameX="-82" frameY="-180" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_105" x="0" y="1558" width="379" height="219" frameX="-76" frameY="-184" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_106" x="0" y="1347" width="395" height="211" frameX="-69" frameY="-188" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_107" x="0" y="734" width="409" height="201" frameX="-63" frameY="-193" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_108" x="0" y="543" width="421" height="191" frameX="-58" frameY="-198" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_109" x="1387" y="585" width="431" height="181" frameX="-54" frameY="-203" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_110" x="445" y="0" width="443" height="171" frameX="-49" frameY="-207" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_111" x="433" y="171" width="453" height="159" frameX="-44" frameY="-214" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_112" x="888" y="0" width="463" height="149" frameX="-39" frameY="-218" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_113" x="886" y="349" width="473" height="137" frameX="-33" frameY="-225" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_114" x="1359" y="355" width="481" height="125" frameX="-29" frameY="-230" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_115" x="423" y="489" width="485" height="115" frameX="-27" frameY="-235" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_116" x="1387" y="149" width="491" height="105" frameX="-24" frameY="-238" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_117" x="1385" y="254" width="495" height="101" frameX="-21" frameY="-236" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_118" x="888" y="149" width="499" height="101" frameX="-19" frameY="-231" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_119" x="886" y="250" width="499" height="99" frameX="-19" frameY="-227" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_64" x="1381" y="480" width="491" height="105" frameX="-36" frameY="-238" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_65" x="902" y="623" width="485" height="115" frameX="-39" frameY="-235" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_66" x="421" y="604" width="481" height="125" frameX="-40" frameY="-230" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_67" x="908" y="486" width="473" height="137" frameX="-44" frameY="-225" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_68" x="1351" y="0" width="463" height="149" frameX="-49" frameY="-218" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_69" x="433" y="330" width="453" height="159" frameX="-54" frameY="-214" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_70" x="0" y="0" width="445" height="171" frameX="-58" frameY="-207" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_71" x="0" y="171" width="433" height="181" frameX="-65" frameY="-203" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_72" x="0" y="352" width="423" height="191" frameX="-71" frameY="-198" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_73" x="0" y="935" width="409" height="201" frameX="-79" frameY="-193" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_74" x="0" y="1136" width="397" height="211" frameX="-86" frameY="-188" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_75" x="421" y="729" width="379" height="219" frameX="-96" frameY="-184" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_76" x="397" y="1175" width="365" height="227" frameX="-103" frameY="-180" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_77" x="395" y="1402" width="349" height="235" frameX="-112" frameY="-176" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_78" x="762" y="1216" width="331" height="243" frameX="-122" frameY="-172" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_79" x="744" y="1459" width="313" height="249" frameX="-132" frameY="-169" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_80" x="1356" y="1015" width="293" height="255" frameX="-142" frameY="-166" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_81" x="1093" y="1280" width="273" height="261" frameX="-153" frameY="-164" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_82" x="1667" y="766" width="253" height="267" frameX="-163" frameY="-160" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_83" x="231" y="1777" width="231" height="271" frameX="-175" frameY="-158" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_84" x="462" y="1637" width="209" height="275" frameX="-187" frameY="-157" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_85" x="671" y="1708" width="189" height="277" frameX="-197" frameY="-156" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_86" x="1657" y="1033" width="173" height="281" frameX="-202" frameY="-154" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_87" x="1501" y="1525" width="159" height="283" frameX="-205" frameY="-153" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_88" x="1821" y="1316" width="151" height="283" frameX="-206" frameY="-153" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_89" x="1880" y="101" width="143" height="285" frameX="-206" frameY="-152" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_90" x="1805" y="1599" width="143" height="285" frameX="-204" frameY="-152" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_91" x="1660" y="1597" width="145" height="285" frameX="-200" frameY="-152" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_92" x="1830" y="1033" width="151" height="283" frameX="-194" frameY="-153" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_93" x="1660" y="1314" width="161" height="283" frameX="-186" frameY="-153" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_94" x="1328" y="1541" width="173" height="281" frameX="-176" frameY="-154" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_95" x="860" y="1708" width="187" height="277" frameX="-166" frameY="-156" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_96" x="1147" y="738" width="209" height="275" frameX="-155" frameY="-157" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_97" x="0" y="1777" width="231" height="271" frameX="-145" frameY="-158" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_98" x="1105" y="1013" width="251" height="267" frameX="-136" frameY="-160" frameWidth="551" frameHeight="551"/>
+    <SubTexture name="IM_DN_99" x="1057" y="1541" width="271" height="261" frameX="-127" frameY="-164" frameWidth="551" frameHeight="551"/>
+</TextureAtlas>

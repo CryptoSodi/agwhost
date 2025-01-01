@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:513104278b2b0af278a759ac8c74d014$ -->
+<TextureAtlas imagePath="Asteroids.png">
+    <SubTexture name="AsteroidBG" x="0" y="0" width="1988" height="848" frameX="-18" frameY="-91" frameWidth="2024" frameHeight="1030"/>
+    <SubTexture name="AsteroidFG" x="0" y="854" width="1440" height="644" frameX="-292" frameY="-193" frameWidth="2024" frameHeight="1030"/>
+</TextureAtlas>

@@ -1,0 +1,2 @@
+var GAME_VERSION = "1.0.5.9159";
+var CLIENT_VERSION = "1.0.6.0";
